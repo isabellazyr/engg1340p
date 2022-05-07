@@ -1,0 +1,61 @@
+********** SURVIVAL IN THE WILD **********
+Hello!!! Welcome to SURVIVAL IN THE WILD!!
+In this game, You'll experience wilderness
+survival.You are firstly allowed to choose
+what to take and next you'll see where you
+will go.
+Please input '1' to proceed.
+********** SURVIVAL IN THE WILD **********
+You are suggested to choose from 3 kinds
+of things. Please note that the total 
+weight should not exceed 15.
+
+Kind 1: energy bar
+*1*:   energy value:100    weight:1
+*2*:   energy value:200    weight:2
+*3*:   energy value:400    weight:4
+Kind 2: bottled water
+*4*:     volume:300ml      weight:3
+*5*:     volume:500ml      weight:5
+Kind 3: gadgets
+*6*:         knife         weight:5
+*7*:        matches        weight:2
+*8*:        compass        weight:2
+*9*:         ropes         weight:2
+*10*:       clothes        weight:5
+*11*:      fishhook        weight:2
+
+Please input the number of pieces of
+equipment you'll choose
+Please input again
+Please input the serial number of the
+things that you'd like to choose one by
+one. For example, if you would like to 
+choose knife and ropes, please input:
+6
+9
+
+********** SURVIVAL IN THE WILD **********
+You can choose either scene from below
+*1*: a winding river
+*2*: a shady grove
+Please input '1' or '2' 
+
+********** SURVIVAL IN THE WILD **********
+You now have a chance to climb the tree to get fruits.
+Please input '1' if you wanna try
+Please input '2' if not
+You didn't get any.
+
+********** SURVIVAL IN THE WILD **********
+You now have a chance to climb the tree to get fruits.
+Please input '1' if you wanna try
+Please input '2' if not
+You didn't get any.
+
+********** SURVIVAL IN THE WILD **********
+You now have a chance to climb the tree to get fruits.
+Please input '1' if you wanna try
+Please input '2' if not
+You didn't get any.
+Failed.You need more energy.
